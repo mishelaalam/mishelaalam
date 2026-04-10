@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mishela 👋
 
-<!--
-**mishelaalam/mishelaalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Calgary passionate about building 
+AI-powered applications, spatial computing, and full-stack software.
 
-Here are some ideas to get you started:
+## What I Build
+- 🤖 AI agents and LLM-powered automation tools
+- 📱 Mobile and web applications
+- 🔐 Security-aware cloud systems
+- 🥽 Spatial computing apps for Apple Vision Pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Work With
+**Languages:** Python · Java · JavaScript · Swift · C/C++ · SQL  
+**AI & Cloud:** OpenAI API · Azure · AWS · Microsoft Defender  
+**Frameworks:** React · React Native · Node.js · SwiftUI · JavaFX  
+**Tools:** Git · Azure DevOps · CI/CD · MySQL  
+
+## Certifications
+🏅 Microsoft Azure Fundamentals (AZ-900)  
+🏅 Microsoft Security & Identity Fundamentals (SC-900)  
+🏅 Microsoft Azure AI Fundamentals (AI-900)  
+
+## Recent Highlights
+🏆 Won Best in Technology Award 2024 — Tech Start UCalgary  
+🏆 Won company AI Hackathon — Long View Systems  
+
+## Let's Connect
+📧 mishela.alam@ucalgary.ca  
+📧 alammishela@gmail.com 
+💼 [LinkedIn](https://www.linkedin.com/in/mishela-alam/)
